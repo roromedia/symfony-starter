@@ -26,5 +26,6 @@ npm install && npm run build
 symfony console cache:clear
 symfony console cache:warmup
 
+# only for development
 symfony serve -d
 ```
