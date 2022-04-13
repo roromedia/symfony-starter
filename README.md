@@ -1,6 +1,6 @@
 # Symfony Starter Project
 
-Unless you're looking to build an api or a command line application - no matter how small your project is or how big it grows - 
+Unless you're looking to build a pure api or a command line application - no matter how small your project is or how big it grows - 
 this is a general purpose starting point for pretty much every symfony project containing: 
 
 - separated [frontend](assets/frontend/webpack.config.js) & [backend](assets/backend/webpack.config.js) & [general](webpack.config.js) webpack configurations (frontend & backend with tailwindcss setup)
